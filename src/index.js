@@ -30,32 +30,32 @@ function ImageGallery() {
         </div>
     
         <div class="box">
-        <img src={one}></img>
+        <img src={three}></img>
             <p>Peaceful sight seeing</p>
         </div>
     
         <div class="box">
-        <img src={one}></img>
+        <img src={four}></img>
             <p>Natural falls</p>
         </div>
     
         <div class="box">
-        <img src={one}></img>
+        <img src={five}></img>
             <p>Peaceful sight seeing</p>
         </div>
     
         <div class="box">
-        <img src={one}></img>
+        <img src={six}></img>
             <p>Good ambiance </p>
         </div>
     
         <div class="box">
-        <img src={one}></img>
+        <img src={seven}></img>
             <p>Beautiful Creature</p>
         </div>
     
         <div class="box">
-        <img src={one}></img>
+        <img src={eight}></img>
             <p>Natural falls</p>
     
         </div>
